@@ -1,0 +1,4 @@
+------- second ---------
+Hello world
+this is a demo for reading file.
+just for funny.
